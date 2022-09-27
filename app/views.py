@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from twilio.twiml.messaging_response import MessagingResponse
+from twilio.twiml.messaging_response import Body, Message, MessagingResponse
 from django.views.decorators.csrf import csrf_exempt
 from django.http import HttpResponse
 
@@ -9,11 +9,14 @@ def index(request):
         incoming_message = request.POST['Body'].lower()
         
         twilio_response = MessagingResponse()
-        actual_message = twilio_response.message()
+        actual_message = twilio_response.message('Hey I am here')
         
-        if incoming_message == 'Hello':
+        if incoming_message == 'hello':
             response = "Hey How are you"
-            actual_message.body(response)
-            
+            actual_message.body(str(response))   
+        
+        
+        print(str(twilio_response))
         return HttpResponse(str(twilio_response))
+        
         
