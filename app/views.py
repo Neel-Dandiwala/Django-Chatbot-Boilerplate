@@ -9,7 +9,7 @@ def index(request):
         incoming_message = request.POST['Body'].lower()
         
         twilio_response = MessagingResponse()
-        actual_message = twilio_response.message('Hey I am here')
+        actual_message = twilio_response.message('')
         
         if incoming_message == 'hello':
             response = "Hey How are you"
