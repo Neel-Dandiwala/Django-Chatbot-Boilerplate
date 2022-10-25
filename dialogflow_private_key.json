@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "whatsappchatbot-ijju",
+  "private_key_id": "5b5744d8089f5c0bd78de3fb84f70c19407f7a81",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCzaRBCb9ay4gN1\nlSvfpDDpZQiTPxubxkqQoFEIcqWYs+Pz5Q2AJqXE7uWiiNNbg8xwYSY25Be/MIuf\nN5Ypr0rdn93TFaXAV6vU5XYBhC/ztrvpualmI2tY7hWEjLroVx0LrYqan4fd7HbQ\nCT31b+2a+a0WX4Ewap1IF1M0vpfUxn1f6iayKSeXvPtacR65wc9FHPFmhz7fxSjK\nkwsAx/e4BerSYLBW9j5o8Qu5cmFY4B+fbaid80h4FwHoBRJQSg8dKzDtCifkVL6H\nnkRk9cg7uYhY6CC7cCy5RRI+xpQQB/zl+JnVSKWvWGDPdelJYIMqbDgJnMMCfA0e\nChlDLZrNAgMBAAECggEACru0nBDmSo3gcJqjxQ2k2nWvqWV7YJqgj93zcxquwv+y\nGb+AiwPk4276YHqokF9Gbgu11k9Xh1nfZH9WFbjVtQQRKIVxRNxJ3KL8qBMRLlam\nj9FKa+CfFbMqqOMldGxvwajYc68rGPECW6hN417Wm3Cn9QByMWQTdEJm+S8U1McQ\ngPlq+auM05rcThtlmrYGdBO9NNRrNuADm6SP086NUDTHGaNBLq7g4Jb9ecxep20T\nrF5DZBep4w9kMI6WHZhR7aTjqgpUHqhSfrCxrZOhsYqGgm9RPBLpHO4koOB0lo8e\nEBRvHB20jezxpTQBkqcPX5Xz4Oyf8voA4AV2Y5ziEQKBgQDhOva50d8Vlm461kPr\nFkDcXoeOTum+FUgkrS8Q3QFd8MNoRIgl0KaSZPsb9qx78HPVUqG9H6N3UcjsIua+\nHBXLUN1WdO4/Lgqz3OJIMFMjuHeUfqHfpmFWvZQOQwYqts9j+7g0mqAnHkQRq1aY\nMHr6nFxd3zfS5JFYF267DqsWUQKBgQDL66DQ2evqyUHUaqqNOxc6Suk0oZ8Zk0BX\n08skmwKEHd2pCKwzwORXcist4p0flN92MnzEYCiswAl6Tynwnon+bQlKkQ05TTgf\n/AdkP+kw6leLjHSqvAVGRBXblOieTPs++fzN2+FWc5lwL7foA1t8EwcGCN2kOQRL\nrER3z8bRvQKBgB0hHx/RQOTt27vIUmhpLGJT53xEQH7RCc+Uhm3L541awisOEf2y\nCpkMbl2jfZNZ+eExGrH3EZExBqdjrCwSPc9Z2gaAgP+y2LeCbdGgTmBkTzLpXc4r\nGpO5WRivGnETy6bGu4AyL1xf0bXnTv/H5V/cMSYC5Jll7lZSUYPn1cDBAoGBAJgR\nFtOoLu3fN2AYSycWsbOeuVmuTN7dmFXmcs7RaYbsXqf297OAXMd5NAn7vAAZHKsf\n6zrmGm74phi3gCcXkwBQf2VD1gCtPPVdFIYFwvffSXmfPEE2BRjpHQOqf+3Mqm/E\nLGm3VssJWZr3esVh+48DAXHWmrIkcrebt1NBdpphAoGAaDH6iRTK5nzYS7tVD+gp\nBIoY7GCgtKAwZ1jcUxq5QqOSqZE8OeaCkwp6bqKhHR05ytaJpxkcy+5VtPswRz4v\nqw9g+t3vxVBefreudc4hzI32OI3YUxUSBxY1PctYO4wWfjORppqc4Fbv30nKAVXK\nCFs51jzj3qQdCOMuNv5GsZg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-integration@whatsappchatbot-ijju.iam.gserviceaccount.com",
+  "client_id": "101794470281891948131",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-integration%40whatsappchatbot-ijju.iam.gserviceaccount.com"
+}
